@@ -2,10 +2,10 @@
 This is my first project and I had to write some code at the expense of some crutches so PLEASE don't judge too harshly.
 # History
 
-## v. 1.01
+## v. 1.1
 Coming soon...
 
-## v. 1.00
+## v. 1.0
 The first version of the firmware includes standard features such as:
 * Time display (hours and minutes)
 * Display date and time (hours:minutes:seconds in the first line, day-month-year and day of the week in the second)
@@ -32,10 +32,10 @@ The scheme will be a little later, for now I’m only posting the code.
 Это мой первый проект и мне пришлось написать код с некоторыми костылями поэтому, ПОЖАЛУЙСТА, не судите строго.
 # История
 
-## v. 1.01
+## v. 1.1
 Скоро...
 
-## v. 1.00
+## v. 1.0
 Самая первая версия прошивки включает в себя стандартные функции такие как:
 * Отображение времени (часы и минуты)
 * Отображение даты и времени (часы:минуты:секунды в первой строке, день-номер месяца-год и день недели - во второй)
