@@ -14,8 +14,8 @@ This project was made on the Atmega328P microcontroller represented by the Ardui
 
 You will also need a 5V power adapter (you can use a regular smartphone charger), a soldering iron, wires and a case (in my case, cardboard).
 We solder according to this scheme
-![Scheme for the project](https://github.com/{username}/{repository}/raw/main/scheme/Arduino%20Clock%20Scheme.png)
-and then upload [firmware](https://github.com/{username}/{repository}/tree/main/firmwares).
+![Scheme for the project](https://github.com/Exz014/Arduino-Clock/raw/main/scheme/Arduino%20Clock%20Scheme.png)
+and then upload [firmware](https://github.com/Exz014/Arduino-Clock/tree/main/firmwares).
 
 # Clock management
 
@@ -76,8 +76,8 @@ In this mode, the watch will not make sounds that occur when the button is press
 
 Также понадобиться адаптер питания на 5V (можно использовать обычный зарядник для смартфона), паяльник, провода и корпус (в моем случае картон).
 Паяем вот по этой схеме
-![Схема для проекта](https://github.com/{username}/{repository}/raw/main/scheme/Arduino%20Clock%20Scheme.png)
-а затем загружаем ![прошивку](https://github.com/{username}/{repository}/tree/main/firmwares).
+![Схема для проекта](https://github.com/Exz014/Arduino-Clock/raw/main/scheme/Arduino%20Clock%20Scheme.png)
+а затем загружаем [прошивку](https://github.com/Exz014/Arduino-Clock/tree/main/firmwares).
 
 # Управление часами
 
